@@ -1,5 +1,3 @@
-# isonglyApplication
-
 # 🎵 iSongly
 
 A Java-based music playlist application that allows users to add, organize, and sort songs dynamically based on multiple musical attributes. The system uses a self-balancing **Red–Black Tree (RBT)** to efficiently manage song data, ensuring fast insertions, deletions, and sorted traversal.
